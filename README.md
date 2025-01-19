@@ -11,7 +11,3 @@ yarn dev
 # or
 pnpm dev
 ```
-
-## Preview
-
-![football website](./public/preview.png "Text to show on mouseover")
